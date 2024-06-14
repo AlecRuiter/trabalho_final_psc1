@@ -5,6 +5,12 @@ Alec Ruiter
 
 Humberto Freitas 
 
+
+LINK DO DRIVE COM UMA FORMATAÇÃO MELHOR(não consegui entender como formatar o texto adequadamente aqui no readme)
+https://drive.google.com/drive/folders/1Q9cF0cnxjrVs04CS5DWY6syVBDb4pvTi?usp=drive_link
+
+
+
 1.PROPOSTA DO PROBLEMA
 
 Nossa proposta para esse trabalho foi criar um sistema que armazenasse doações, calculasse o total e salvasse elas em um arquivo txt.
